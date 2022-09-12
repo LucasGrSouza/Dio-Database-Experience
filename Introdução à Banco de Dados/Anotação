@@ -1,0 +1,53 @@
+                      Introdução à Banco de Dados
+
+Dados: dados são fatos ou fenômenos.
+Informação: informações são dados organizados para tomadas de decisões.
+Metadados: informações que fornecem uma descrição concisa dos dados contidos no BD.
+
+Banco de Dados: banco de dados é um conjunto de dados que transmite informações, transmitem significados.
+    Podemos considerar uma coleção de palavras, dentre elas há relacionamento entre dados, constituindo então um banco de dados.
+
+SGBD: gerenciamento de banco de dados.
+
+Definição: tipos de dados, estrutura, constains.
+Construção: inserção de dados.
+Manipulação: recuperação, relatório.
+Compartilhamento: simultaneidade, acesso.
+
+Modelo Relacional
+
+Características
+
+- Álgebra relacional
+- Relações
+- TAD par armazenamento
+- Transparência
+
+DBA:
+
+- Definição das tabelas e constrains para dados
+- Comandos traduzidos pelo processador LDD
+LDD - Linguagem de definição de dados
+
+Usuário Convencional
+
+Características
+
+- Altera e extrai informações
+- Duráveis
+
+Transações - agrupar para executar
+
+Storage E Buffer
+
+- Gerenciador de armazenamento
+- Gerenciador de buffer
+
+SGBD mais utilizado pelo mercado
+
+1- Oracle
+2- MySQL
+3- Microsoft SQL Server
+4- PostgreSQL
+5- Mongo DB
+6- Redis
